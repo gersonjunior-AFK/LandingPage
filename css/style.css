@@ -313,7 +313,7 @@ footer p {
 /* CONTAINER */
 
 #carouselExampleDark {
-  width: 85%;
+  width: 86%;
   margin: auto;
 
   border-radius: 25px;
@@ -325,7 +325,7 @@ footer p {
 /* IMAGENS */
 
 .carousel-item img {
-  height: 500px;
+  height: 450px;
   object-fit: cover;
   filter: brightness(60%);
 }
